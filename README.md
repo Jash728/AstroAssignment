@@ -14,13 +14,17 @@ To run this project locally
    git clone https://github.com/Jash728/AstroAssignment.git
 
 - Install dependencies:
-  
-cd AstroAssignment
-npm install
+
+  ```bash
+  cd AstroAssignment
+  npm install
+
 
 - Start the development server:
 
-npm run dev
+  ```bash
+  npm run dev
+
 
 Technologies Used:
 

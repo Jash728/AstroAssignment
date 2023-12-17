@@ -33,7 +33,6 @@ const astro = async(req, res) => {
 const getAstroById = async(req, res) => {
     const astrologerId = req.params.id;
     try {
-        // Assuming you have a mongoose model named Astrologer
         const astrologer = await Astrologer.findById(astrologerId);
 
         if (!astrologer) {

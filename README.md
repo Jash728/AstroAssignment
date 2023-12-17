@@ -28,7 +28,7 @@ To run this project locally
 
 Technologies Used:
 
-React.js with Vite for the front end
-Material-UI for styling and components
-Redux Toolkit for state management
-RTK Query for API interactions
+- React.js with Vite for the front end
+- Material-UI for styling and components
+- Redux Toolkit for state management
+- RTK Query for API interactions
